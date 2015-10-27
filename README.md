@@ -18,3 +18,5 @@ Hours spent: 8
   * [x] User can tap the area for "Having trouble signing in?"
   * [x] User can log out from the Settings screen.
 * [x] Optional: You should be able to swipe through the welcome screens instead of just tapping them.
+
+[demo](https://github.com/cshdllr/Dropbox-Prototype/blob/master/dropbox%20demo.gif)
